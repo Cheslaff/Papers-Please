@@ -13,7 +13,7 @@
 <p align="center">3)GoogLeNet</p>
 <p align="center">4)ResNet</p>
 <p align="center">5)MobileNet</p>
-<p align="center">6)EfficientNet</p>
+<p align="center">6)ResNeXt</p>
 <p align="center">7)VAE</p>
 
 ---
